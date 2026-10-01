@@ -40,4 +40,4 @@ Application container, Chrome. Reproduces through the API as well.
 ## Evidence
 
 Balance before 515.50, amount -250.00, balance after 765.50.
-Automated in `05-money-rules.spec.ts`.
+Automated in [parabank-selenium-tests](https://github.com/gamzesimit/parabank-selenium-tests) as `BillPayTest.aNegativePaymentMustBeRefused`.

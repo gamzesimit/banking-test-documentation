@@ -41,4 +41,4 @@ side rather than a missing check in the browser.
 ## Evidence
 
 Balance before 515.50, amount 1515.50, balance after -1000.00.
-Automated in `05-money-rules.spec.ts`.
+Automated in [parabank-selenium-tests](https://github.com/gamzesimit/parabank-selenium-tests) as `BillPayTest.aPaymentAboveTheBalanceMustBeRefused`.

@@ -5,7 +5,7 @@ cases in a form a second person can run, a traceability matrix tying every
 requirement to the cases that cover it, and defect reports.
 
 The automation for the same application lives in
-[parabank-test-automation](https://github.com/gamzesimit/parabank-test-automation)
+[parabank-selenium-tests](https://github.com/gamzesimit/parabank-selenium-tests)
 and [banking-api-tests](https://github.com/gamzesimit/banking-api-tests). This
 repository is the part that comes first: deciding what to test and why, before
 anything is automated.
