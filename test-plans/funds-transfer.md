@@ -50,7 +50,7 @@ from that sentence.
 ## Approach
 
 Manual execution first, to establish what the correct figures are. Automation
-second, in `parabank-test-automation`, so the suite encodes a decision that was
+second, in `parabank-selenium-tests`, so the suite encodes a decision that was
 already made rather than a guess made while writing code.
 
 ## Data
